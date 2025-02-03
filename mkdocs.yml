@@ -10,7 +10,7 @@ theme:
     code: "Fira Code"
 
 nav:
-  - Inicio: inicio.md
+  - Inicio: index.md
   - Nuestros servicios: servicios.md
   - Integrantes: integrantes/integrantes.md
   - Contacto: contacto.md
